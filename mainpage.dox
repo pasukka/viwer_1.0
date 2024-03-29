@@ -1,0 +1,16 @@
+/**	@mainpage 
+ * 	3DViewer with qt. <br>
+ *  <a href="controller_8h.html"> Controller header</a><br />
+ *  <a href="command_manager_8h.html"> Command manager header</a><br />
+ *  <a href="view_8h.html"> View header</a><br />
+ *  <a href="Viewer_widget_8h.html"> Viewer widget header</a><br />
+ *  <a href="Settings_widget_8h.html"> Settings widget header</a><br />
+ *  <a href="Commands_8h.html"> Commands header</a><br />
+ *	<a href="model_8h.html"> Model header</a><br />
+  *	<a href="parser_8h.html"> Parser </a><br />
+ *  <a href="settings_8h.html"> Settings file handler </a><br />
+ *  <a href="transf__matrix__generator_8h.html"> Matrix transformation generator</a><br />
+ *  <a href="transf__strategy_8h.html"> Matrix transformation strategies </a><br />
+ *  <a href="vertex__processor_8h.html"> Logic where Verices x Matrix processed </a><br />
+ *  <a href="viewer__blas_8h.html"> Header with linear algebra logic </a><br />
+*/
